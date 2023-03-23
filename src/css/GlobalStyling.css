@@ -1,0 +1,17 @@
+
+.buttons{
+    display: flex;
+    margin: auto;
+    padding: 4px;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 5px;
+
+    color: white;
+    border-color: transparent;
+    background-color: cadetblue;
+}
+
+.buttons:hover{
+    background-color: rgb(107, 202, 206);
+}

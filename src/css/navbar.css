@@ -1,0 +1,26 @@
+.primary-navigation{
+    display: flex;
+   padding: 0;
+   margin: 0;
+}
+
+.nav-button{
+    padding: 10px 15px 10px 15px;
+    font-weight: 700;
+    background-color: rgb(210, 225, 233);
+    margin-right: 3px;
+    border-radius: 20px;
+}
+
+@media(null){
+    .primary-navigation{
+        position: fixed;
+        inset: 0 0 0 30%; /*Top,Bottom,Left,Right positioning for fixed navbar*/
+
+        flex-direction: column;
+        padding: 10rem 2em;
+
+        background: hsl(0 0% 100% / 0.1);
+        backdrop-filter: blur(.5rem);
+    }
+}

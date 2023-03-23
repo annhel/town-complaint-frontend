@@ -1,0 +1,43 @@
+/* All Meetings Styling */
+#meeting-preview-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(168, 200, 201);
+    margin: 10px 20px 0;
+    padding: 30px;
+    max-width: 400px;
+    border-radius: 50px;
+}
+
+/* Meeting Details Styling */
+#meeting-details-container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border-radius: 20px;
+    width: 60%;
+    background-color: rgb(125, 162, 163);
+}
+
+#meeting-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+.label{
+    font-weight: 600;
+}
+
+.meeting-details{
+    
+}
+
+.details-div{
+    display: flex;
+    flex-direction: column;
+    margin: 0 40px 0;
+    padding: 10px;
+}
+

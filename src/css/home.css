@@ -1,0 +1,21 @@
+
+.city-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4%;
+}
+
+.kings-landing{
+    height: 700px;
+    width: auto;
+    border-radius: 50%;
+    margin: 0 0 0;
+    margin-right: 10%;
+}
+
+#opening-statement{
+    width: 40%;
+    font-size: 25px;
+    margin-left: 5%;
+}

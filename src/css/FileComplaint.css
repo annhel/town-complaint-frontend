@@ -1,0 +1,23 @@
+/* ComplaintForm Styling */
+#complaint-form-div{
+    display: flex;
+    flex-direction: column;
+    max-width: 40%;
+    margin: auto;
+}
+
+#complaint-form-div input{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+#complaint-form-div textarea{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    height: 200px;
+}
+
+/* ComplaintPage Styling */
+

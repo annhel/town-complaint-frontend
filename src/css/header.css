@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    /* background-color: rgb(190, 190, 190); */
+    color: rgb(202, 1, 1);
+    height: fit-content;
+}
+
+#header-title{
+    display: flex;
+    justify-content: center;
+    margin-right: 12rem;
+    font-size: 22px;
+    
+}
+
+.logo{
+    margin: 2rem;
+    border-radius: 50%;
+    height: 150px;
+}
